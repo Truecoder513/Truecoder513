@@ -19,8 +19,9 @@
 <img align="left" alt="VueJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Strapi" width="26px" src="https://www.svgrepo.com/show/354399/strapi-icon.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Strapi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Strapi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Electron" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NodeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 
 
 
